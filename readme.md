@@ -4,9 +4,9 @@ ___
 ___
 
 
-* JavaScript: **Hello, World Example** &chec
-* JavaScript: **"use strict"** &check;
-* JavaScript: **Variables** &check;
+* JavaScript: ~~**Hello, World Example**~~ &chec
+* JavaScript: ~~**"use strict"**~~ &check;
+* JavaScript:~~**Variables**~~ &check;
 * JavaScript: **Datatypes** &check;
 * JavaScript: **Methods of primitives** &check;
 * JavaScript: **Numbers**&check;
